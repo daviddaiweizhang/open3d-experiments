@@ -6,7 +6,7 @@ authors = ["David Zhang <zdavid0123@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10,<3.13"
+python = ">=3.9,<3.13"
 open3d = "^0.17.0"
 scikit-learn = "^1.3.2"
 pyyaml = "^6.0.1"
